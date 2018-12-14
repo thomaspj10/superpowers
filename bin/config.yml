@@ -1,0 +1,6 @@
+language:
+  unknownPower: '&cUnknown power. Available powers: &b{powers}.'
+  powerReceived: 'Received {orbName} orb containing {orbEnergy} energy.'
+  powerTypeSelected: 'Power type: {powerName}.'
+  noOrbInHand: 'You need a power orb to use {powerName}.'
+  powerInCooldown: 'Please wait before using {powerName} again.'

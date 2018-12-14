@@ -1,0 +1,10 @@
+name: Superpowers
+main: ttdev.superpowers.Superpowers
+version: 1.0
+commands:
+  power:
+    description: Test command for powers.
+    usage: /<command>
+  orb:
+    description: Give yourself a power orb.
+    usage: /<command> <power>
